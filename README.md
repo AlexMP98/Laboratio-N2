@@ -55,4 +55,10 @@ Al momento de comparar los resultados, llegamos a la conclusión de que tanto co
 **_6. CONCLUSIONES_**   
 
 
-**_7. BIBLIOGRAFÍA_**   
+**_7. BIBLIOGRAFÍA_**  
+
+Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
+
+Geovanny. (10 de Junio de 2020). wordpress. Obtenido de wordpress: https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/
+
+Zapata, Fanny. (1 de November de 2019). Análisis de mallas: conceptos, métodos, ejemplos. Lifeder.https://www.lifeder.com/analisis-de-mallas/.
