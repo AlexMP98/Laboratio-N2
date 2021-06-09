@@ -26,7 +26,19 @@ _Objetivos Específicos_
 
 **_4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR_**   
 
+![calculos](https://github.com/AlexMP98/Laboratio-N2/blob/main/Imagenes/Lab2.png)   
+![calculos](https://github.com/AlexMP98/Laboratio-N2/blob/main/Imagenes/Lab2_2.png)    
+4.1 Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1  
 
+Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1         
+![tabla](https://github.com/AlexMP98/Laboratio-N2/blob/main/Imagenes/tabla.png)      
+
+4.2 Compare los valores de la tabla 2.1 y realice sus conclusiones
+
+Al momento de comparar los resultados, llegamos a la conclusión de que tanto como los valores analíticos, como los medidos, son correctos y coinciden entre ellos, lo que demuestra que todo el proceso realizado es el correcto y que en este circuito eléctrico, se cumple la ley de voltajes de Kirchof, ya que al analizar cada malla del circuito, la sumatoria de los voltajes era igual a cero.
+
+4.2 Calcule el error    
+![error](https://github.com/AlexMP98/Laboratio-N2/blob/main/Imagenes/Error2.png) 
 
 
 
