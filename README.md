@@ -12,7 +12,7 @@ _Objetivos Específicos_
 
 -Comprender el método  de  análisis   de malla, y poder establecer una relación entre el uso de la Ley de Ohm y las Leyes de Kirchhoff   con   ésta,   además   de   los conceptos   básicos   del  análisis   de circuitos.
 
--Identificar la forma correcta de medición de corriente   y   voltaje   con   el   multímetro   para circuitos resistivos, y más específicamente delos circuitos analizados por mallas.
+-Identificar la forma correcta de medición de corriente   y   voltaje   con   el   multímetro   para circuitos resistivos, y más específicamente de los circuitos analizados por mallas.
 
 -Comparar   los   cálculos   teóricos   con   los prácticos de medición de tensión, intensidad de corriente eléctrica y resistencias.
 
