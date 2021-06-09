@@ -6,7 +6,7 @@
 
 _Objetivo General_   
 
--Comprobar experimentalmente el análisis de mallas.
+-Comprobar experimental y analiticamente el funcionamiento y procedimiento del metodo de análisis de mallas.
 
 _Objetivos Específicos_    
 
