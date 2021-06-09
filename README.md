@@ -12,7 +12,7 @@ _Objetivos Específicos_
 
 
 
-**_2. Marco Teórico_**     
+**_2. MARCO TEÓRICO_**     
 
 
 
