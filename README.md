@@ -52,8 +52,9 @@ Al momento de comparar los resultados, llegamos a la conclusión de que tanto co
 
 
 
-**_5. VIDEO_**    
+**_5. VIDEO_**   
 
+https://youtu.be/pb9xpDGpCoY
 
 **_6. CONCLUSIONES_**   
 * Al momento de comparar los valores de las mediciones con los valores analíticos obtenidos, llegamos a la conclusión de que en cada malla del circuito se cumple la ley de voltajes de Kirchof, donde indica que las sumatoria de los voltajes de esa malla es igual a cero o  también que el voltaje suministrado al circuito es igual a la suma de los voltajes de los componentes de ese ciruito.     
