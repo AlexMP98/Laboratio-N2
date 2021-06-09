@@ -1,4 +1,4 @@
-# Laboratio-N2
+##Laboratorio-Informe N°2    
 ##Integrantes: Masaquiza Alex, Morillo Ariel, Gaona Carlos    
 ##NRC: 5416     
 
