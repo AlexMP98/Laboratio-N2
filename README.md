@@ -18,8 +18,9 @@ _Objetivos Específicos_
 
 **_2. MARCO TEÓRICO_**     
 
-
-
+![marco1](https://github.com/AlexMP98/Laboratio-N2/blob/main/Imagenes/Marco%20teorico%20l2-1.PNG)
+![marco2](https://github.com/AlexMP98/Laboratio-N2/blob/main/Imagenes/Marco%20teorico%20l2-2.PNG)
+![marco3](https://github.com/AlexMP98/Laboratio-N2/blob/main/Imagenes/Marco%20teorico%20l2-3.PNG)
 
 **_3. EXPLICACIÓN DEL PROCEDIMIENTO_**   
 
